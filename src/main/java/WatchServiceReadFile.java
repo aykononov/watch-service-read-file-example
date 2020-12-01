@@ -1,8 +1,9 @@
+/* Приложение мониторит директорию `\watch` и при появлении в ней нового файла `a.txt`, читает его. */
+
 import java.nio.file.*;
 import java.io.IOException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
-
 
 public class WatchServiceReadFile {
     public static void main(String[] args) {
