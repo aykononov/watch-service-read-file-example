@@ -5,7 +5,7 @@
 ### Описание.
 Приложение мониторит директорию `\watch` и при появлении в ней нового файла `a.txt`, читает его.
 
-[WatchServiceReadFile.java](https://github.com/aykononov/watch-service-read-file/tree/main/src/main/java/WatchServiceReadFile.java "https://github.com/aykononov/watch-service-read-file/tree/main/src/main/java/WatchServiceReadFile.java")
+[WatchServiceReadFile.java](https://github.com/aykononov/watch-service-read-file-example/tree/main/src/main/java/WatchServiceReadFile.java "https://github.com/aykononov/watch-service-read-file-example/tree/main/src/main/java/WatchServiceReadFile.java")
 
 ### Использование.
 
